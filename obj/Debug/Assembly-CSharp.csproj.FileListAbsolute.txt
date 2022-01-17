@@ -1,0 +1,2 @@
+E:\Gettting Started with unity\ObjectTracking\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Gettting Started with unity\ObjectTracking\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
