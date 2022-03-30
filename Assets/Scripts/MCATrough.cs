@@ -10,7 +10,7 @@ public class MCATrough : MonoBehaviour
     void Start()
     {
         startPosition = new Vector3(0.16f, 0.84f, -0.75f);
-        gameObject.transform.position = startPosition;
+        //gameObject.transform.position = startPosition;
         //transform.position = new Vector3(0, 0, 0);
         //transform.localScale = new Vector3(0.5f, 0.5f, -0.5f);
     }
